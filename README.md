@@ -14,7 +14,7 @@ description: 2023 年日历版，共365句。
 
 直到有一天，你接收到宇宙的信号，一切水到渠成，自然发生。
 
-> Gradually, then Suddenly.——Ernest Hemingway, The Sun Also Rises
+> Gradually, then Suddenly.——Ernest Hemingway
 
 [涂俊杰](https://mp.weixin.qq.com/s/drVv4RTNtnyD2g0tpmOCqQ)
 
