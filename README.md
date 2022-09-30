@@ -25,6 +25,10 @@ description: 2023 年日历版，共 365 句。
 {% endhint %}
 
 {% hint style="info" %}
+另有共创 [Notion](https://tujj.notion.site/cb644e93eb0b4379aa3a565673cb6889) 版本，可以就某一段落评论，或提交你喜欢的语录，我来收集并添加。
+{% endhint %}
+
+{% hint style="warning" %}
 这份精选集的最终成品是实体日历，如果你知道该怎么做，欢迎联系我（微信：ffeels）。
 {% endhint %}
 
