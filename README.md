@@ -16,7 +16,7 @@ description: 2023 年日历版，共 365 句。
 
 > Gradually, then Suddenly.——Ernest Hemingway
 
-[涂俊杰](https://mp.weixin.qq.com/s/drVv4RTNtnyD2g0tpmOCqQ)
+[涂俊杰](https://nextjs-notion-starter-kit-peach-seven.vercel.app/)
 
 2022-09-17 17:08:05
 
