@@ -6,7 +6,7 @@ description: 2023 年日历版，共 365 句。
 
 ### 💬 编者前言 <a href="#_toc114326787" id="_toc114326787"></a>
 
-在[《张潇雨100问》](https://pan.baidu.com/s/1HboXmZ7N0rFr66Y45HrODw?pwd=a5ej)开篇，我就写「为了避免字数无限膨胀，我对纯理论的部分进行了删减。纯理论的哲思也很好，只是一种取舍。」这些哲思，我放在这份精选集里。
+在[《张潇雨 100 问》](https://pan.baidu.com/s/1HboXmZ7N0rFr66Y45HrODw?pwd=a5ej)开篇，我就写「为了避免字数无限膨胀，我对纯理论的部分进行了删减。纯理论的哲思也很好，只是一种取舍。」这些哲思，我放在这份精选集里。
 
 一共收录 365 段话，内容多来自张潇雨的[微博](https://weibo.com/p/1005051977585731/home)和[《得意忘形》](https://www.xiaoyuzhoufm.com/podcast/5e74543a418a84a046c4e50e)播客。筛选标准参考了微博点赞和转发数、张潇雨转发数，以及标签和内容主题的关联度，当然，少不了我的私人最爱。
 
@@ -21,7 +21,7 @@ description: 2023 年日历版，共 365 句。
 2022-09-17 17:08:05
 
 {% hint style="success" %}
-初稿更新于 2022 年 9 月 17 日，首发于知识星球「[84000](https://t.zsxq.com/06fqF6uBy)」。
+初稿更新于 2022 年 9 月 17 日，首发于知识星球「[84000](https://t.zsxq.com/0cjuUrXYj)」。
 {% endhint %}
 
 {% hint style="info" %}
@@ -2275,7 +2275,7 @@ Not giving a fuck（毫不在意） 是需要练习的，这也是人生最值�
 允许奇迹发生。
 
 {% hint style="success" %}
-初稿更新于 2022 年 9 月 17 日，首发于知识星球「[84000](https://t.zsxq.com/06fqF6uBy)」。
+初稿更新于 2022 年 9 月 17 日，首发于知识星球「[84000](https://t.zsxq.com/0cjuUrXYj)」。
 {% endhint %}
 
 ### 📌 备选
