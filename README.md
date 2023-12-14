@@ -39,7 +39,7 @@ layout:
 
 整体离「不过时」的产品又进了一步 ❤️
 
-2023-12-14 16:04:52\_v1.1（[原 v1.0 版本链接](https://app.gitbook.com/o/-LoQ\_RjYIIvMjrVbBPSN/s/K04V5WWe6pFeibMJbmtq/\~/changes/24/v1.1/v1.0)）
+2023-12-14 16:04:52\_v1.1（[原 v1.0 版本链接](https://rili.zxy.wiki/v/1.0)）
 
 
 
