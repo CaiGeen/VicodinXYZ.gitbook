@@ -39,7 +39,7 @@ layout:
 
 整体离「不过时」的产品又进了一步 ❤️
 
-2023-12-14 16:04:52\_v1.1（[原 v1.0 版本链接](#user-content-fn-1)[^1]）
+2023-12-14 16:04:52\_v1.1（[原 v1.0 版本链接](https://rili.zxy.wiki/v/1.0)）
 
 
 
@@ -53,7 +53,7 @@ layout:
 
 新的一年，祝你「找一个给你爱与鼓励就像肯德基给你餐巾纸那么多的人。」
 
-2025-01-13 10:31:51\_v1.2（[原 v1.1 版本链接](#user-content-fn-2)[^2]）
+2025-01-13 10:31:51\_v1.2（[原 v1.0 版本链接](https://rili.zxy.wiki/v/1.1)）
 
 
 
@@ -1576,7 +1576,3 @@ Don’t worry, nothing is under control. （放心，事情一定不会按照你
 允许奇迹发生。
 
 <figure><img src=".gitbook/assets/得意忘形.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-[^1]: 
-
-[^2]: 
