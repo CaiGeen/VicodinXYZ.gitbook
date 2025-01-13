@@ -53,12 +53,12 @@ layout:
 
 新的一年，祝你「找一个给你爱与鼓励就像肯德基给你餐巾纸那么多的人。」
 
-2025-01-13 10:31:51\_v1.2（[原 v1.0 版本链接](https://rili.zxy.wiki/v/1.1)）
+2025-01-13 10:31:51\_v1.2（[原 v1.1 版本链接](https://rili.zxy.wiki/v/1.1)）
 
 
 
 {% hint style="success" %}
-首发于知识星球「[84000](https://t.zsxq.com/0cjuUrXYj)」，另附 [Notion ](https://tujj.notion.site/bbee96f5bc754e108c4cb5149ea0b8cd)共创版本，可以评论提交你喜欢的句子。
+首发于张潇雨付费知识星球「[84000](https://t.zsxq.com/0cjuUrXYj)」，你可以[填写表单](https://wj.qq.com/s2/17614444/d1e3/)提交你喜欢的句子。
 {% endhint %}
 
 
